@@ -1,0 +1,21 @@
+---
+title: "1112 國際稅法"
+author: "柯，陳"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# output:
+#   bookdown::gitbook: default
+# #   bookdown::pdf_book: default
+#   theme: united
+#   toc: true
+link-citations: true
+description: "111-2 學期國際稅法課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
+---
+
+# Preface {-}
+國際稅法
+In this book, we will introduce an interesting
+method.
+
+https://bookdown.org/yihui/bookdown/usage.html
